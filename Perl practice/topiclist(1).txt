@@ -1,0 +1,7 @@
+functions
+grep filter map demo
+regular expression
+packages
+file handling
+socket programming
+database connectivity
